@@ -10,6 +10,11 @@
       "StackName": "amplify-basicauthentication-dev-133212",
       "StackId": "arn:aws:cloudformation:us-east-1:075808003146:stack/amplify-basicauthentication-dev-133212/717e6160-1ed4-11eb-8ffb-0e450af2d5f1",
       "AmplifyAppId": "d1e6tqb8ghyjrh"
+    },
+    "categories": {
+      "auth": {
+        "basicauthenticatione71eee18": {}
+      }
     }
   }
 }
