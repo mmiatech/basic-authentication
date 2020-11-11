@@ -2,10 +2,10 @@ import { container } from 'aws-amplify';
 import React from 'react';
 import Container from './Container';
 
-const Public = () => (
+const MorePublic = () => (
   <Container>
-    <h1>Public Route</h1>
+    <h1>More Public Route</h1>
   </Container>
 );
 
-export default Public;
+export default MorePublic;
